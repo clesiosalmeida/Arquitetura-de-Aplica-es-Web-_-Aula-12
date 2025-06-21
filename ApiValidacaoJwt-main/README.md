@@ -1,4 +1,4 @@
-````markdown
+
 # API de Autenticação e Autorização JWT com Spring Boot
 
 ## 📋 Descrição
